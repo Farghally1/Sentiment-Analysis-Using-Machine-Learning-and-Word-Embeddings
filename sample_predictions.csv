@@ -1,0 +1,16 @@
+Tweet,Model,Predicted Sentiment
+I love this!,Bernoulli Naive Bayes,Positive
+I love this!,Linear SVM,Positive
+I love this!,Logistic Regression,Positive
+I love this!,CBOW + Deep Learning,Positive
+I love this!,Skip-gram + Deep Learning,Positive
+I hate that!,Bernoulli Naive Bayes,Negative
+I hate that!,Linear SVM,Negative
+I hate that!,Logistic Regression,Negative
+I hate that!,CBOW + Deep Learning,Positive
+I hate that!,Skip-gram + Deep Learning,Positive
+"It was okay, not great.",Bernoulli Naive Bayes,Positive
+"It was okay, not great.",Linear SVM,Positive
+"It was okay, not great.",Logistic Regression,Positive
+"It was okay, not great.",CBOW + Deep Learning,Positive
+"It was okay, not great.",Skip-gram + Deep Learning,Positive

@@ -1,0 +1,4 @@
+﻿.ipynb_checkpoints/
+__pycache__/
+*.pyc
+training.1600000.processed.noemoticon.csv
